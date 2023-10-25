@@ -32,16 +32,16 @@ body > *:nth-child(4) {
 /* **Targeting Element Classes & IDs */
 .odd {
     background-color: pink;
-    font-family: Verdana, DeJavu Sans, sans-serif;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+.font-size-24px {
+    font-size: 24px;
 }
 
 #no-2 {
     color: blue;
     font-size: 36px;
-}
-
-#no-3 {
-    font-size: 24px;
 }
 
 #no-4 {

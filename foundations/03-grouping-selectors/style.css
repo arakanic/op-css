@@ -1,0 +1,14 @@
+.btn-invert,
+.btn-yellow {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.btn-invert {
+    background-color: black;
+    color: white;
+}
+
+.btn-yellow {
+    background-color: yellow;
+}
